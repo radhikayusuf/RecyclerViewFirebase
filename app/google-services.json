@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "669522578498",
+    "firebase_url": "https://recyclerviewfirebase-a8b8c.firebaseio.com",
+    "project_id": "recyclerviewfirebase-a8b8c",
+    "storage_bucket": "recyclerviewfirebase-a8b8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669522578498:android:afb438375f8da880",
+        "android_client_info": {
+          "package_name": "id.bandits.recyclerviewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669522578498-487ce7ud6t8n3ko66qg8493sc3jv7u4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.bandits.recyclerviewfirebase",
+            "certificate_hash": "3225890afcfd3d213181fd775abf3e30304a3a61"
+          }
+        },
+        {
+          "client_id": "669522578498-nod91iccg0j21skc2ok8b412n9ld9fog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFtriwnTknLuJ7wGnbdZCcdYkYjX5OS94"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669522578498-nod91iccg0j21skc2ok8b412n9ld9fog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
